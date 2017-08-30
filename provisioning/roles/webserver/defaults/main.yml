@@ -1,2 +1,3 @@
 letsencrypt: no
 static: no
+custom_nginx_template: none
